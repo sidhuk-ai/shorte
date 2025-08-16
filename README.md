@@ -27,7 +27,8 @@ shorte/
 ## 🛠️ Tech Stack
 
 - **Languages:** TypeScript (83.1%), CSS (15.2%), JavaScript (1.7%)  
-
+- **Backend:** Express JS, Mongo DB
+- **Frontend:** Next JS, Shadcn/UI
 ---
 
 ## 📦 Getting Started
