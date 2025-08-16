@@ -14,6 +14,15 @@ It allows users to generate short links and handles redirection with error manag
 
 ---
 
+## 🖼️ Screenshots
+<img width="1897" height="979" alt="image" src="https://github.com/user-attachments/assets/c79c8632-ff29-41b8-af59-e85e33c72ced" />
+
+<img width="1895" height="974" alt="image" src="https://github.com/user-attachments/assets/8ac567c1-8ec0-4b79-a5ee-65e473b88f92" />
+
+<img width="781" height="405" alt="image" src="https://github.com/user-attachments/assets/e9f14b2a-66d5-4546-ab79-b4cc2e1877e8" />
+
+---
+
 ## 📁 Project Structure
 
 ```
